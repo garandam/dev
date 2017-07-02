@@ -1,2 +1,5 @@
 # OS X Setup
 setup/dotfiles | git@github.com:garandam/dotfiles.git
+
+# Perl
+perl/perlTestsuite | git@github.com:garandam/perlTestsuite.git
