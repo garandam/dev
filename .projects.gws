@@ -3,3 +3,8 @@ setup/dotfiles | git@github.com:garandam/dotfiles.git
 
 # Perl
 perl/perlTestsuite | git@github.com:garandam/perlTestsuite.git
+
+# Dependencies
+dependencies/stil-dependencies  | git@github.com:garandam/stil-dependencies.git
+dependencies/k-dependencies     | git@github.com:garandam/k-dependencies.git
+dependencies/ku-dependencies    | git@github.com:garandam/ku-dependencies.git
